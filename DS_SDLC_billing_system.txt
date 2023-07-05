@@ -1,0 +1,51 @@
+                                                DATABASE STRUCTURE IN BILLING SYSTEM
+
+res_customer_master             
+   
+cmid
+cname
+cmobile
+cemail
+
+res_bill_master
+
+bmid
+cmid
+bdate
+btotal
+
+res_product_master
+
+pmid
+pname
+punit 
+prate
+pdesc
+pimage
+pactive
+
+res_supplier_master
+
+smid
+sname
+semail
+saddress
+
+res_bill_detail
+
+bdid
+bmid
+pmid
+pqty
+prate
+pamount
+
+                                                     Software Development
+
+• Planning
+• Analysis
+• Design
+• Coding
+• Implementation
+• Testing
+• Maintenance
